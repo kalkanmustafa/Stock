@@ -1,0 +1,20 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Local app state
+screener_notes.json
+*.log
+
+# Tool/local config
+.claude/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp

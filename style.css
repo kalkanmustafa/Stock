@@ -1,0 +1,6 @@
+/* Hide Streamlit chrome */
+#MainMenu { display: none !important; }
+footer { display: none !important; }
+[data-testid="stToolbar"] { display: none !important; }
+[data-testid="stDecoration"] { display: none !important; }
+[data-testid="stStatusWidget"] { display: none !important; }
